@@ -1,0 +1,25 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.banner p {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+a {
+  padding: 15px 40px;
+  background-color: #1EDD88;
+  border-radius: 50px;
+  color: #fff;
+  display: inline-block;
+}
